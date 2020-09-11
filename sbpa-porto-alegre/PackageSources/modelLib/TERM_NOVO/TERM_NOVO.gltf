@@ -1,0 +1,601 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [
+    "ASOBO_macro_light"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    },
+    {
+      "name": "node2",
+      "translation": [
+        18.94102097,
+        14.83439445,
+        46.97644043
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node3",
+      "translation": [
+        -26.34121704,
+        15.52736187,
+        47.27534866
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node4",
+      "translation": [
+        -68.68553162,
+        13.94895363,
+        47.42340851
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node5",
+      "translation": [
+        -83.33127594,
+        4.34965086,
+        40.25592804
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node6",
+      "translation": [
+        163.0642395,
+        9.7285471,
+        29.69880295
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node7",
+      "translation": [
+        114.29694366,
+        9.77057934,
+        29.46107101
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node8",
+      "translation": [
+        73.97944641,
+        9.77057743,
+        29.46107864
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node9",
+      "translation": [
+        -110.46712494,
+        0.63458586,
+        5.8093853
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node10",
+      "translation": [
+        -84.70810699,
+        0.63458586,
+        18.84618378
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node11",
+      "translation": [
+        -50.59440994,
+        4.34965038,
+        39.67651367
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node12",
+      "translation": [
+        -12.93254662,
+        4.34965038,
+        39.19366837
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    },
+    {
+      "name": "node13",
+      "translation": [
+        31.00629807,
+        4.34965038,
+        38.22797775
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "extensions": {
+        "ASOBO_macro_light": {
+          "color": [
+            1.0,
+            0.7,
+            0.5
+          ],
+          "intensity": 150,
+          "cone_angle": 360.0,
+          "has_simmetry": true,
+          "flash_frequency": 0.0,
+          "flash_duration": 0.0,
+          "flash_phase": 0.0,
+          "rotation_speed": 0.0,
+          "day_night_cycle": true
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 1175,
+      "type": "VEC3",
+      "min": [
+        -123.93421,
+        -0.16711,
+        -41.10941
+      ],
+      "max": [
+        180.52951,
+        22.50112,
+        53.91368
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 1175,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 1175,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 1815,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 0.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "term_novo"
+    },
+    {
+      "source": 1,
+      "name": "term_novo_lit"
+    }
+  ],
+  "images": [
+    {
+      "uri": "term_novo.png"
+    },
+    {
+      "uri": "term_novo_lit.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 7260
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7260,
+      "byteLength": 14100
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21360,
+      "byteLength": 14100
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 35460,
+      "byteLength": 9400
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 44860,
+      "uri": "TERM_NOVO.bin"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<Project Version="2" Name="sbpa-porto-alegre" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\mycompany-airport-sbpa-porto-alegre.xml</Package>
+	</Packages>
+</Project>
+
