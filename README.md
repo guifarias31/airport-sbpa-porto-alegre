@@ -6,7 +6,7 @@ Created by: GuiFarias31
 
 This airport is free to use. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport.
 
-Current version: v0.9.2. Image previews here: https://imgur.com/a/
+Current version: v0.9.3. Image previews here: https://imgur.com/a/
 
 ## INSTALLATION INSTRUCTIONS ##
 
