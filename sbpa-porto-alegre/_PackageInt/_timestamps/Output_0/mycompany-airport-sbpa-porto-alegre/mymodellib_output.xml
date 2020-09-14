@@ -19,6 +19,8 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\CWB6_LM.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA55_LM.BMP.DDS.json" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAGRADE_LM.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\MAMUTH_FINGER.PNG.DDS" Timestamp="13244536410" NbSourceFile="1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\ESCADAEMB_LIT.PNG.DDS.json" Timestamp="13244536409" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBRFVIDRO A.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA57_LM.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\AIR_TB9_10_LM.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
@@ -168,6 +170,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Passarela\Passarela.bin" Timestamp="13244267552" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX15.DDS.DDS.json" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBJD34.BMP.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\ESCADATAM.PNG.DDS" Timestamp="13244536409" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\FZ6_LM.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\HANGARZIM_LIT.PNG.DDS.json" Timestamp="13244244799" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\LADO_HANGARZIM\LADO_HANGARZIM.xml" Timestamp="13244242499" NbSourceFile="-1"/>
@@ -225,7 +228,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA73.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEXANAC5.DDS.DDS.json" Timestamp="13243819776" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX04_LM.DDS.DDS.json" Timestamp="13243819777" NbSourceFile="-1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POSTE_LUZ_SBPA.PNG.DDS" Timestamp="13244244805" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POSTE_LUZ_SBPA.PNG.DDS" Timestamp="13244535008" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA43.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAGRADEA_LM.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBRFVIDRO A_LM.BMP.DDS.json" Timestamp="13243819780" NbSourceFile="-1"/>
@@ -235,6 +238,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEXANAC2.DDS.DDS" Timestamp="13243819776" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\FZ6.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPATORRE.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\MAMUTH_FINGER\MAMUTH_FINGER.gltf" Timestamp="13244535007" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX15_LM.DDS.DDS" Timestamp="13243819776" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\MOPTETO.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Gasometro\Gasometro.gltf" Timestamp="13244267552" NbSourceFile="-1"/>
@@ -257,6 +261,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA71_LM.BMP.DDS" Timestamp="13243819780" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA65_LM.BMP.DDS" Timestamp="13243819780" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEXCARROS.DDS.DDS.json" Timestamp="13243819776" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\MAMUTH_FINGER_LIT.PNG.DDS" Timestamp="13244536410" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX01.DDS.DDS.json" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA66.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\AIA 727-100 POA001\AIA 727-100 POA001_LOD004.gltf" Timestamp="13243819200" NbSourceFile="-1"/>
@@ -285,6 +290,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA72_LM.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA47_LM.BMP.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX16_LM.DDS.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Hangar_generic4\Hangar_generic4.xml" Timestamp="13244532479" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPACONC1.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\SBPAX16\SBPAX10.gltf" Timestamp="13243819781" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA47.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
@@ -300,18 +306,22 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX03.DDS.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA58_LM.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\FINGER\FINGER.xml" Timestamp="13244242551" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\EscadaTAM\EscadaTAM.gltf" Timestamp="13244535007" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\TERM_01\TERM_01.xml" Timestamp="13244242823" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Arena\ArenaGremio.xml" Timestamp="13244265405" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\JANELAS.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAESTACIONAMENTOEXTERNO_LM.DDS.DDS" Timestamp="13243819776" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\TRATOR_LIT.PNG.DDS.json" Timestamp="13244244816" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Hangar_generic4\Hangar_generic4.bin" Timestamp="13244535007" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA62_LM.BMP.DDS.json" Timestamp="13243819780" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA64_LM.BMP.DDS" Timestamp="13243819780" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\ESCADAEMB.PNG.DDS" Timestamp="13244536409" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA55.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA51.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEXANAC2.DDS.DDS.json" Timestamp="13243819776" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\BigGalpao\BigGalpao.bin" Timestamp="13244243629" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\POSTE_LUZ_SBPA\POSTE_LUZ_SBPA.bin" Timestamp="13244243629" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\EscadaEmb\EscadaEmb.gltf" Timestamp="13244535006" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\CENTRAL_DIST_LIT.PNG.DDS" Timestamp="13244244000" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA50.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX12.DDS.DDS.json" Timestamp="13243819777" NbSourceFile="-1"/>
@@ -331,6 +341,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEXANAC3_LM.DDS.DDS.json" Timestamp="13243819776" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX12_LM.DDS.DDS.json" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAVIDROT.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Hangar_generic4\Hangar_generic4.gltf" Timestamp="13244535007" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Gasometro\Gasometro.bin" Timestamp="13244267552" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\TERMINAL_REDO.PNG.DDS" Timestamp="13244244809" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX25.DDS.DDS.json" Timestamp="13243819777" NbSourceFile="-1"/>
@@ -398,6 +409,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA47.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\AZUL TETO_LM.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\CWB FENCE.BMP.DDS.json" Timestamp="13243819780" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\ESCADAEMB_LIT.PNG.DDS" Timestamp="13244536409" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPACONC1_LM.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA58_LM.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\MercadoPublico\MercadoPublico.bin" Timestamp="13244267552" NbSourceFile="-1"/>
@@ -406,6 +418,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA44_LM.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBRFVIDRO A.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\AIA 727-100 POA001\AIA 727-100 POA001_LOD008.gltf" Timestamp="13243819200" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\EscadaEmb\EscadaEmb.xml" Timestamp="13244532444" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAGRADE.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA48_LM.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\MAMUTE_CORREDOR.PNG.DDS.json" Timestamp="13244244803" NbSourceFile="-1"/>
@@ -471,6 +484,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX14.DDS.DDS.json" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBBR27.BMP.DDS" Timestamp="13243819780" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX30.DDS.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\MAMUTH_FINGER\MAMUTH_FINGER.xml" Timestamp="13244532270" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\CWB10_LM.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAHISIMLIGH_LM.DDS.DDS" Timestamp="13243819776" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBJD34.BMP.DDS.json" Timestamp="13243819777" NbSourceFile="-1"/>
@@ -483,12 +497,14 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA73.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAAZULT.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA69_LM.BMP.DDS.json" Timestamp="13243819780" NbSourceFile="-1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POSTE_LUZ_SBPA_LIT.PNG.DDS.json" Timestamp="13244244805" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POSTE_LUZ_SBPA_LIT.PNG.DDS.json" Timestamp="13244535008" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA62.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA53_LM.BMP.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA73_LM.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\CWB10.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA62.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\MAMUTH_FINGER\MAMUTH_FINGER.bin" Timestamp="13244535007" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\ESCADAEMB.PNG.DDS.json" Timestamp="13244536409" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEXCARROS_LM.DDS.DDS.json" Timestamp="13243819776" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA57.BMP.DDS" Timestamp="13243819780" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SMALLGALPAO_LIT.PNG.DDS.json" Timestamp="13244244805" NbSourceFile="-1"/>
@@ -546,8 +562,10 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX12.DDS.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA59.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Olimpico\Olimpico.xml" Timestamp="13244265486" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\MAMUTH_FINGER_LIT.PNG.DDS.json" Timestamp="13244536410" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA69.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBCF51.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\EscadaEmb\EscadaEmb.bin" Timestamp="13244535006" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA49_LM.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Cilindro\Cilindro.xml" Timestamp="13244242680" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA49.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
@@ -565,6 +583,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAAZUL3_LM.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\Cilindro\Cilindro.bin" Timestamp="13244243629" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\TERMINAL_REDO.PNG.DDS.json" Timestamp="13244244809" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\EscadaTAM\EscadaTAM.xml" Timestamp="13244532412" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\HEAD2.PNG.DDS" Timestamp="13244244800" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAHISIMLIGH.DDS.DDS.json" Timestamp="13243819776" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAAZUL_LM.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
@@ -573,7 +592,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA74_LM.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPATORRE_LM.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\TRATOR_LIT.PNG.DDS" Timestamp="13244244816" NbSourceFile="-1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POSTE_LUZ_SBPA_LIT.PNG.DDS" Timestamp="13244244805" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POSTE_LUZ_SBPA_LIT.PNG.DDS" Timestamp="13244535008" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\AZUL TETO1_LM.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAGRADEA_LM.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBRFMTL.BMP.DDS.json" Timestamp="13243819780" NbSourceFile="-1"/>
@@ -586,6 +605,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA71.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\TecnoPUC\TecnoPUC.bin" Timestamp="13244267552" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\PARKSNIGHT.PNG.DDS" Timestamp="13244244805" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\EscadaTAM\EscadaTAM.bin" Timestamp="13244535007" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBRFVIDRO.BMP.DDS" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\MuseuIbere\MuseuIbere.bin" Timestamp="13244267552" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPA2_LM.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
@@ -602,6 +622,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\AIA 737-300 POA001\AIA 737-300 POA001_LOD000.gltf" Timestamp="13243819200" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX29.DDS.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA44_LM.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\MAMUTH_FINGER.PNG.DDS.json" Timestamp="13244536410" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBJD34_LM.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\FACIN\FACIN.bin" Timestamp="13244267552" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX02_LM.DDS.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
@@ -624,7 +645,8 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA46.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAVENT.BMP.DDS.json" Timestamp="13243819779" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\HangarPOA3\HangarPOA3.xml" Timestamp="13244265607" NbSourceFile="-1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\modelLib.BGL" Timestamp="13244274931" NbSourceFile="0"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\modelLib.BGL" Timestamp="13244535008" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\ESCADATAM.PNG.DDS.json" Timestamp="13244536409" NbSourceFile="1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA72.BMP.DDS" Timestamp="13243819780" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\MOPTETO.BMP.DDS.json" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA50.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
@@ -659,7 +681,7 @@
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POA50_LM.BMP.DDS" Timestamp="13243819778" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\SBPAHiSimulationExpans__o\SBPAHiSimulationExpans__o.xml" Timestamp="13243812957" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\SBPAEX05_LM.DDS.DDS" Timestamp="13243819777" NbSourceFile="-1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POSTE_LUZ_SBPA.PNG.DDS.json" Timestamp="13244244805" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\POSTE_LUZ_SBPA.PNG.DDS.json" Timestamp="13244535008" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\CONTAINERS_4_GROUP\CONTAINERS_4_GROUP.gltf" Timestamp="13244243629" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\Packages\mycompany-airport-sbpa-porto-alegre\scenery\TEXTURE\HANGAR_BIG.PNG.DDS.json" Timestamp="13244244800" NbSourceFile="-1"/>
 	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpa-porto-alegre\_PackageInt\_tempFiles\mycompany-airport-sbpa-porto-alegre\mymodellib\AIA 737-300 POA001\AIA 737-300 POA001_LOD000.bin" Timestamp="13243819200" NbSourceFile="-1"/>

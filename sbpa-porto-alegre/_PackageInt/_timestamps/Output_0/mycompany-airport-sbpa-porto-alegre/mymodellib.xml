@@ -1,5 +1,6 @@
 <Timestamps>
 	<Entry Path="PraiaDeBelas\PraiaDeBelas.gltf" Timestamp="13244266904"/>
+	<Entry Path="TEXTURE\ESCADATAM.PNG" Timestamp="13244536336"/>
 	<Entry Path="Planetario\Planetario.bin" Timestamp="13244266488"/>
 	<Entry Path="LADO_HANGARZIM\LADO_HANGARZIM.gltf" Timestamp="13244242499"/>
 	<Entry Path="Passarela\Passarela.gltf" Timestamp="13244265645"/>
@@ -10,6 +11,7 @@
 	<Entry Path="TEXTURE\RZ_SBPJ41 A.BMP" Timestamp="13094655026"/>
 	<Entry Path="HANGAR_BIG\HANGAR_BIG.gltf" Timestamp="13244242723"/>
 	<Entry Path="TEXTURE\SBPAVIDROT.BMP" Timestamp="13212492476"/>
+	<Entry Path="MAMUTH_FINGER\MAMUTH_FINGER.gltf" Timestamp="13244532270"/>
 	<Entry Path="TEXTURE\FACHADA.BMP" Timestamp="13212492403"/>
 	<Entry Path="Cilindro\Cilindro.xml" Timestamp="13244242680"/>
 	<Entry Path="AIA 727-100 POA001\AIA 727-100 POA001_LOD000.bin" Timestamp="13243813071"/>
@@ -61,6 +63,7 @@
 	<Entry Path="Gasometro\Gasometro.bin" Timestamp="13244266461"/>
 	<Entry Path="TEXTURE\RZ_SBPJ40.BMP" Timestamp="13094659852"/>
 	<Entry Path="TEXTURE\SMALLGALPAO.PNG" Timestamp="13244244625"/>
+	<Entry Path="EscadaEmb\EscadaEmb.bin" Timestamp="13244532444"/>
 	<Entry Path="TEXTURE\POA67.BMP" Timestamp="13212492449"/>
 	<Entry Path="MercadoPublico\MercadoPublico.gltf" Timestamp="13244266478"/>
 	<Entry Path="TEXTURE\POA53.BMP" Timestamp="13212492428"/>
@@ -98,6 +101,7 @@
 	<Entry Path="TERMINAL_2\TERMINAL_2.bin" Timestamp="13244242843"/>
 	<Entry Path="TEXTURE\CWB10.BMP" Timestamp="13212492401"/>
 	<Entry Path="TEXTURE\SBPAEX15_LM.DDS" Timestamp="13213128418"/>
+	<Entry Path="TEXTURE\ESCADAEMB_LIT.PNG" Timestamp="13244532785"/>
 	<Entry Path="TEXTURE\HEAD2_LIT.PNG" Timestamp="13244244396"/>
 	<Entry Path="HANGARZIM\HANGARZIM.bin" Timestamp="13244242524"/>
 	<Entry Path="AIA 727-100 POA001\AIA 727-100 POA001_LOD005.bin" Timestamp="13243813072"/>
@@ -122,6 +126,7 @@
 	<Entry Path="TEXTURE\FACHADA_LM.BMP" Timestamp="13212492403"/>
 	<Entry Path="HangarPOA2\HangarPOA2.xml" Timestamp="13244265755"/>
 	<Entry Path="TEXTURE\SBPAGRADE.BMP" Timestamp="13212492472"/>
+	<Entry Path="Hangar_generic4\Hangar_generic4.gltf" Timestamp="13244532479"/>
 	<Entry Path="PARKING_REDO\PARKING_REDO.gltf" Timestamp="13244242761"/>
 	<Entry Path="TEXTURE\AZUL TETO.BMP" Timestamp="13212492395"/>
 	<Entry Path="TEXTURE\METALAMARELO_LM.BMP" Timestamp="13212492407"/>
@@ -132,7 +137,7 @@
 	<Entry Path="CENTRAL_DIST\CENTRAL_DIST.gltf" Timestamp="13244242614"/>
 	<Entry Path="TEXTURE\POA55.BMP" Timestamp="13212492431"/>
 	<Entry Path="TEXTURE\POA59.BMP" Timestamp="13212492436"/>
-	<Entry Path="TEXTURE\POSTE_LUZ_SBPA.PNG" Timestamp="13244244540"/>
+	<Entry Path="TEXTURE\POSTE_LUZ_SBPA.PNG" Timestamp="13244532750"/>
 	<Entry Path="BigGalpao\BigGalpao.bin" Timestamp="13244242651"/>
 	<Entry Path="TEXTURE\SBPATILES_LM.BMP" Timestamp="13212492475"/>
 	<Entry Path="TEXTURE\POA55_LM.BMP" Timestamp="13212492432"/>
@@ -180,7 +185,7 @@
 	<Entry Path="TEXTURE\BIGGALPAO.PNG" Timestamp="13244243882"/>
 	<Entry Path="HangarPOA4\HangarPOA4.bin" Timestamp="13244265709"/>
 	<Entry Path="TEXTURE\SBPACONC1.BMP" Timestamp="13212492471"/>
-	<Entry Path="TEXTURE\POSTE_LUZ_SBPA_LIT.PNG" Timestamp="13244244548"/>
+	<Entry Path="TEXTURE\POSTE_LUZ_SBPA_LIT.PNG" Timestamp="13244532759"/>
 	<Entry Path="TEXTURE\SBPAEX01.DDS" Timestamp="13212681329"/>
 	<Entry Path="TEXTURE\POA69_LM.BMP" Timestamp="13114135092"/>
 	<Entry Path="TEXTURE\AZUL TETO1_LM.BMP" Timestamp="13212492397"/>
@@ -201,6 +206,7 @@
 	<Entry Path="TEXTURE\SBRFMTL.BMP" Timestamp="13212492478"/>
 	<Entry Path="TEXTURE\SBCF37_LM.BMP" Timestamp="13212492462"/>
 	<Entry Path="Big\Big.bin" Timestamp="13244262708"/>
+	<Entry Path="MAMUTH_FINGER\MAMUTH_FINGER.bin" Timestamp="13244532270"/>
 	<Entry Path="AIA 727-100 POA001\AIA 727-100 POA001_LOD008.gltf" Timestamp="13243813073"/>
 	<Entry Path="TEXTURE\SBPAEX14.DDS" Timestamp="13212681343"/>
 	<Entry Path="TEXTURE\POA50.BMP" Timestamp="13212492423"/>
@@ -213,6 +219,7 @@
 	<Entry Path="TEXTURE\POA61.BMP" Timestamp="13212492439"/>
 	<Entry Path="CentroAdm\CentroAdm.xml" Timestamp="13244265522"/>
 	<Entry Path="TEXTURE\FZ6.BMP" Timestamp="13212492404"/>
+	<Entry Path="EscadaEmb\EscadaEmb.gltf" Timestamp="13244532444"/>
 	<Entry Path="AIA 727-100 POA001\AIA 727-100 POA001_LOD007.bin" Timestamp="13243813072"/>
 	<Entry Path="TEXTURE\RZ_SBPJ42.BMP" Timestamp="13212492459"/>
 	<Entry Path="SBPAExpansaoEstacionamento\SBPAExpansaoEstacionamento.xml" Timestamp="13243813018"/>
@@ -246,13 +253,16 @@
 	<Entry Path="HEAD2\HEAD2.bin" Timestamp="13244242463"/>
 	<Entry Path="TEXTURE\POA42.BMP" Timestamp="13212492411"/>
 	<Entry Path="TEXTURE\SBPAEX18.DDS" Timestamp="13212919875"/>
+	<Entry Path="EscadaTAM\EscadaTAM.gltf" Timestamp="13244532412"/>
 	<Entry Path="TEXTURE\SBPAEX12.DDS" Timestamp="13212681342"/>
 	<Entry Path="TEXTURE\SBPAEXANAC4.DDS" Timestamp="13212919877"/>
 	<Entry Path="TEXTURE\POA50_LM.BMP" Timestamp="13212492424"/>
 	<Entry Path="TEXTURE\SBPAVENT.BMP" Timestamp="13212492476"/>
 	<Entry Path="TEXTURE\TERMINALNORMAL.PNG" Timestamp="13244244725"/>
+	<Entry Path="Hangar_generic4\Hangar_generic4.xml" Timestamp="13244532479"/>
 	<Entry Path="TEXTURE\SBPAHISIMLIGH.DDS" Timestamp="13213128431"/>
 	<Entry Path="TEXTURE\POA70_LM.BMP" Timestamp="13118885144"/>
+	<Entry Path="Hangar_generic4\Hangar_generic4.bin" Timestamp="13244532479"/>
 	<Entry Path="PARKING_REDO\PARKING_REDO.xml" Timestamp="13244242761"/>
 	<Entry Path="MuseuIbere\MuseuIbere.gltf" Timestamp="13244266509"/>
 	<Entry Path="TEXTURE\CILINDRO_NEW.PNG" Timestamp="13244243966"/>
@@ -262,6 +272,7 @@
 	<Entry Path="TEXTURE\SBJD34_LM.BMP" Timestamp="13212492467"/>
 	<Entry Path="AIA 737-300 POA001\AIA 737-300 POA001_LOD000.bin" Timestamp="13243813087"/>
 	<Entry Path="TEXTURE\GRADEPUXAD.BMP" Timestamp="13212492404"/>
+	<Entry Path="TEXTURE\ESCADAEMB.PNG" Timestamp="13244536317"/>
 	<Entry Path="TRATOR\TRATOR.xml" Timestamp="13244242306"/>
 	<Entry Path="TERM_01\TERM_01.gltf" Timestamp="13244242823"/>
 	<Entry Path="TEXTURE\RZ_SBPJ41.BMP" Timestamp="13094655238"/>
@@ -283,6 +294,7 @@
 	<Entry Path="TEXTURE\CWB GRASS 1_LM.BMP" Timestamp="13212492399"/>
 	<Entry Path="TEXTURE\SBPAEX04.DDS" Timestamp="13212681336"/>
 	<Entry Path="TEXTURE\SBPAEX07.DDS" Timestamp="13212681340"/>
+	<Entry Path="TEXTURE\MAMUTH_FINGER_LIT.PNG" Timestamp="13244536297"/>
 	<Entry Path="SBPAX10\SBPAX10.xml" Timestamp="13243813047"/>
 	<Entry Path="TEXTURE\PARKSTEXTURE.PNG" Timestamp="13244244522"/>
 	<Entry Path="SmallGalpao\SmallGalpao.gltf" Timestamp="13244242796"/>
@@ -302,6 +314,7 @@
 	<Entry Path="CONTAINERS_4_GROUP\CONTAINERS_4_GROUP.gltf" Timestamp="13244242579"/>
 	<Entry Path="TEXTURE\SBCF51_LM.BMP" Timestamp="13212492464"/>
 	<Entry Path="TEXTURE\POA59_LM.BMP" Timestamp="13212492437"/>
+	<Entry Path="EscadaEmb\EscadaEmb.xml" Timestamp="13244532444"/>
 	<Entry Path="TEXTURE\POA62.BMP" Timestamp="13212492441"/>
 	<Entry Path="TEXTURE\POA68.BMP" Timestamp="13212492450"/>
 	<Entry Path="TEXTURE\SBPAGRADE_LM.BMP" Timestamp="13212492472"/>
@@ -360,10 +373,12 @@
 	<Entry Path="Hangar6POA\Hangar6POA.bin" Timestamp="13244265815"/>
 	<Entry Path="AIA 737-300 POA001\AIA 737-300 POA001_LOD001.gltf" Timestamp="13243813087"/>
 	<Entry Path="TEXTURE\POA74.BMP" Timestamp="13212492455"/>
+	<Entry Path="MAMUTH_FINGER\MAMUTH_FINGER.xml" Timestamp="13244532270"/>
 	<Entry Path="TEXTURE\SBPAEXANAC3_LMA.DDS" Timestamp="13212919882"/>
 	<Entry Path="TEXTURE\TERM2_LIT.PNG" Timestamp="13244244677"/>
 	<Entry Path="TEXTURE\SBCF51.BMP" Timestamp="13212492464"/>
 	<Entry Path="TEXTURE\ANTENA_LM.BMP" Timestamp="13212492395"/>
+	<Entry Path="EscadaTAM\EscadaTAM.xml" Timestamp="13244532412"/>
 	<Entry Path="BigGalpao\BigGalpao.xml" Timestamp="13244242651"/>
 	<Entry Path="Olimpico\Olimpico.bin" Timestamp="13244265486"/>
 	<Entry Path="TEXTURE\SBPAEX03.DDS" Timestamp="13212681333"/>
@@ -397,9 +412,11 @@
 	<Entry Path="SBPAX16\SBPAX10.gltf" Timestamp="13243819667"/>
 	<Entry Path="TEXTURE\SBARHISIM8.DDS" Timestamp="13213128425"/>
 	<Entry Path="TEXTURE\POA51_LM.BMP" Timestamp="13212492426"/>
+	<Entry Path="TEXTURE\MAMUTH_FINGER.PNG" Timestamp="13244536350"/>
 	<Entry Path="PARKING_REDO\PARKING_REDO.bin" Timestamp="13244242761"/>
 	<Entry Path="TEXTURE\SBPAEX11.DDS" Timestamp="13212681341"/>
 	<Entry Path="TEXTURE\SBPAEX16.DDS" Timestamp="13212681344"/>
+	<Entry Path="EscadaTAM\EscadaTAM.bin" Timestamp="13244532412"/>
 	<Entry Path="CONTAINERS_4_GROUP\CONTAINERS_4_GROUP.xml" Timestamp="13244242579"/>
 	<Entry Path="FINGER\FINGER.bin" Timestamp="13244242551"/>
 	<Entry Path="TEXTURE\ANACSBPA.DDS" Timestamp="13212919883"/>

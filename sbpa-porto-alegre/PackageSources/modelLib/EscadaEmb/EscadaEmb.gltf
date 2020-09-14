@@ -46,38 +46,38 @@
       "bufferView": 1,
       "byteOffset": 0,
       "componentType": 5126,
-      "count": 10116,
+      "count": 6520,
       "type": "VEC3",
       "min": [
-        -115.23681,
-        0.04415,
-        -82.33344
+        -3.49338,
+        -0.00782,
+        -0.85
       ],
       "max": [
-        114.60739,
-        26.5137,
-        29.3577
+        3.4859,
+        5.21238,
+        0.85
       ]
     },
     {
       "bufferView": 2,
       "byteOffset": 0,
       "componentType": 5126,
-      "count": 10116,
+      "count": 6520,
       "type": "VEC3"
     },
     {
       "bufferView": 3,
       "byteOffset": 0,
       "componentType": 5126,
-      "count": 10116,
+      "count": 6520,
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "byteOffset": 0,
       "componentType": 5125,
-      "count": 21162,
+      "count": 10626,
       "type": "SCALAR"
     }
   ],
@@ -104,65 +104,53 @@
       "emissiveTexture": {
         "index": 1
       },
-      "normalTexture": {
-        "index": 2
-      },
-      "normalTextureInfo": {
-        "scale": 1.0
-      }
+      "alphaMode": "BLEND"
     }
   ],
   "textures": [
     {
       "source": 0,
-      "name": "terminaltexture"
+      "name": "escadaemb"
     },
     {
       "source": 1,
-      "name": "terminalnight"
-    },
-    {
-      "source": 2,
-      "name": "terminalnormal"
+      "name": "escadaemb_lit"
     }
   ],
   "images": [
     {
-      "uri": "terminaltexture.png"
+      "uri": "escadaemb.png"
     },
     {
-      "uri": "terminalnight.png"
-    },
-    {
-      "uri": "terminalnormal.png"
+      "uri": "escadaemb_lit.png"
     }
   ],
   "bufferViews": [
     {
       "buffer": 0,
       "byteOffset": 0,
-      "byteLength": 84648
+      "byteLength": 42504
     },
     {
       "buffer": 0,
-      "byteOffset": 84648,
-      "byteLength": 121392
+      "byteOffset": 42504,
+      "byteLength": 78240
     },
     {
       "buffer": 0,
-      "byteOffset": 206040,
-      "byteLength": 121392
+      "byteOffset": 120744,
+      "byteLength": 78240
     },
     {
       "buffer": 0,
-      "byteOffset": 327432,
-      "byteLength": 80928
+      "byteOffset": 198984,
+      "byteLength": 52160
     }
   ],
   "buffers": [
     {
-      "byteLength": 408360,
-      "uri": "TERM_01.bin"
+      "byteLength": 251144,
+      "uri": "EscadaEmb.bin"
     }
   ]
 }

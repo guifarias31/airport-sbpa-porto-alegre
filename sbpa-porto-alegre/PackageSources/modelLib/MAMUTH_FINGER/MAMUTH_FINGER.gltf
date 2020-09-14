@@ -1,0 +1,155 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 872,
+      "type": "VEC3",
+      "min": [
+        -9.27687,
+        -0.04447,
+        -4.04863
+      ],
+      "max": [
+        2.66621,
+        3.04147,
+        19.49757
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 872,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 872,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 1851,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 0.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "mamuth_finger"
+    },
+    {
+      "source": 1,
+      "name": "mamuth_finger_lit"
+    }
+  ],
+  "images": [
+    {
+      "uri": "mamuth_finger.png"
+    },
+    {
+      "uri": "mamuth_finger_lit.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 7404
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7404,
+      "byteLength": 10464
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17868,
+      "byteLength": 10464
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28332,
+      "byteLength": 6976
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 35308,
+      "uri": "MAMUTH_FINGER.bin"
+    }
+  ]
+}

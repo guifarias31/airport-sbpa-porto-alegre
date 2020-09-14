@@ -8,22 +8,22 @@
     {
       "path": "manifest.json",
       "size": 271,
-      "date": 132443452858675658
+      "date": 132445366442476933
     },
     {
       "path": "scenery/AIRPORT-SBPA-POLY.BGL",
-      "size": 4868,
-      "date": 132443641107635821
+      "size": 5363,
+      "date": 132445367920122783
     },
     {
       "path": "scenery/airport-sbpa-porto-alegre.bgl",
-      "size": 57325,
-      "date": 132443641107045729
+      "size": 57785,
+      "date": 132445367919697712
     },
     {
       "path": "scenery/modelLib.BGL",
-      "size": 1665688,
-      "date": 132442749313317608
+      "size": 1735840,
+      "date": 132445350086934297
     },
     {
       "path": "scenery/TEXTURE/BIGGALPAO.PNG.DDS",
@@ -104,6 +104,36 @@
       "path": "scenery/TEXTURE/CONTAINERS_4_LINE_LIT.PNG.DDS.json",
       "size": 102,
       "date": 132442447993579062
+    },
+    {
+      "path": "scenery/TEXTURE/ESCADAEMB.PNG.DDS",
+      "size": 349680,
+      "date": 132445364097442378
+    },
+    {
+      "path": "scenery/TEXTURE/ESCADAEMB.PNG.DDS.json",
+      "size": 119,
+      "date": 132445364097397369
+    },
+    {
+      "path": "scenery/TEXTURE/ESCADAEMB_LIT.PNG.DDS",
+      "size": 174904,
+      "date": 132445364096972293
+    },
+    {
+      "path": "scenery/TEXTURE/ESCADAEMB_LIT.PNG.DDS.json",
+      "size": 102,
+      "date": 132445364096957290
+    },
+    {
+      "path": "scenery/TEXTURE/ESCADATAM.PNG.DDS",
+      "size": 699192,
+      "date": 132445364098622584
+    },
+    {
+      "path": "scenery/TEXTURE/ESCADATAM.PNG.DDS.json",
+      "size": 102,
+      "date": 132445364098572573
     },
     {
       "path": "scenery/TEXTURE/FINGER.PNG.DDS",
@@ -216,6 +246,26 @@
       "date": 132442448044112981
     },
     {
+      "path": "scenery/TEXTURE/MAMUTH_FINGER.PNG.DDS",
+      "size": 2796344,
+      "date": 132445364105346306
+    },
+    {
+      "path": "scenery/TEXTURE/MAMUTH_FINGER.PNG.DDS.json",
+      "size": 102,
+      "date": 132445364105286293
+    },
+    {
+      "path": "scenery/TEXTURE/MAMUTH_FINGER_LIT.PNG.DDS",
+      "size": 2796344,
+      "date": 132445364101945706
+    },
+    {
+      "path": "scenery/TEXTURE/MAMUTH_FINGER_LIT.PNG.DDS.json",
+      "size": 102,
+      "date": 132445364101885695
+    },
+    {
       "path": "scenery/TEXTURE/PARKSNIGHT.PNG.DDS",
       "size": 2796344,
       "date": 132442448051089214
@@ -238,22 +288,22 @@
     {
       "path": "scenery/TEXTURE/POSTE_LUZ_SBPA.PNG.DDS",
       "size": 2796344,
-      "date": 132442448058030440
+      "date": 132445350081628353
     },
     {
       "path": "scenery/TEXTURE/POSTE_LUZ_SBPA.PNG.DDS.json",
       "size": 102,
-      "date": 132442448057975428
+      "date": 132445350081568344
     },
     {
       "path": "scenery/TEXTURE/POSTE_LUZ_SBPA_LIT.PNG.DDS",
       "size": 2796344,
-      "date": 132442448054439804
+      "date": 132445350084918935
     },
     {
       "path": "scenery/TEXTURE/POSTE_LUZ_SBPA_LIT.PNG.DDS.json",
       "size": 102,
-      "date": 132442448054379792
+      "date": 132445350084858923
     },
     {
       "path": "scenery/TEXTURE/SMALLGALPAO.PNG.DDS",
