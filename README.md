@@ -4,7 +4,7 @@ Created by: GuiFarias31
 
 3Ds by: [AxScenery](http://axplane.blogspot.com.br/)
 
-This airport is free to use. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport.
+This airport is free to use and all credits to the 3D objects go to [AxScenery](http://axplane.blogspot.com.br/).
 
 Current version: v0.9.7. Image previews of v0.9.6 here: https://imgur.com/a/8TKyLlD
 
