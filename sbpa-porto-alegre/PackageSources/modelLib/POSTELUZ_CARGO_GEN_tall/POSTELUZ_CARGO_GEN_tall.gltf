@@ -1,0 +1,331 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    },
+    {
+      "name": "node2",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        -0.007,
+        0.0,
+        1.0,
+        0.0,
+        23.2952,
+        0.0,
+        0.0,
+        1.0,
+        1.9747,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "node3",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0741,
+        0.0,
+        1.0,
+        0.0,
+        25.1068,
+        0.0,
+        0.0,
+        1.0,
+        1.1789,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "node4",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        -0.807,
+        0.0,
+        1.0,
+        0.0,
+        24.222,
+        0.0,
+        0.0,
+        1.0,
+        1.0502,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "node5",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0512,
+        0.0,
+        1.0,
+        0.0,
+        24.2366,
+        0.0,
+        0.0,
+        1.0,
+        1.1824,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "node6",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        -0.8281,
+        0.0,
+        1.0,
+        0.0,
+        23.2492,
+        0.0,
+        0.0,
+        1.0,
+        1.0431,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "node7",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0023,
+        0.0,
+        1.0,
+        0.0,
+        23.2665,
+        0.0,
+        0.0,
+        1.0,
+        1.0221,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "node8",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0621,
+        0.0,
+        1.0,
+        0.0,
+        23.3065,
+        0.0,
+        0.0,
+        1.0,
+        1.2013,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "node9",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.9776,
+        0.0,
+        1.0,
+        0.0,
+        24.2039,
+        0.0,
+        0.0,
+        1.0,
+        1.0168,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 4044,
+      "type": "VEC3",
+      "min": [
+        -1.1723,
+        -1.2748,
+        -1.7405
+      ],
+      "max": [
+        1.2357,
+        26.8821,
+        1.311
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 4044,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 4044,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 5190,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 1.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "posteluz_cargo_gen"
+    },
+    {
+      "source": 1,
+      "name": "posteluz_cargo_gen_lit"
+    }
+  ],
+  "images": [
+    {
+      "uri": "posteluz_cargo_gen.png"
+    },
+    {
+      "uri": "posteluz_cargo_gen_lit.png"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 20760
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20760,
+      "byteLength": 48528
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 69288,
+      "byteLength": 48528
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 117816,
+      "byteLength": 32352
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 150168,
+      "uri": "POSTELUZ_CARGO_GEN_tall.bin"
+    }
+  ]
+}

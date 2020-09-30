@@ -3,9 +3,7 @@
     "version": "2.0",
     "generator": "ModelConverterX"
   },
-  "extensionsUsed": [
-    "ASOBO_macro_light"
-  ],
+  "extensionsUsed": [],
   "scene": 0,
   "scenes": [
     {
@@ -39,435 +37,255 @@
     },
     {
       "name": "node2",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         18.94102097,
+        0.0,
+        1.0,
+        0.0,
         14.83439445,
-        46.97644043
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        46.97644043,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node3",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         -26.34121704,
+        0.0,
+        1.0,
+        0.0,
         15.52736187,
-        47.27534866
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        47.27534866,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node4",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         -68.68553162,
+        0.0,
+        1.0,
+        0.0,
         13.94895363,
-        47.42340851
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        47.42340851,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node5",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         -83.33127594,
+        0.0,
+        1.0,
+        0.0,
         4.34965086,
-        40.25592804
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        40.25592804,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node6",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         163.0642395,
+        0.0,
+        1.0,
+        0.0,
         9.7285471,
-        29.69880295
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        29.69880295,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node7",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         114.29694366,
+        0.0,
+        1.0,
+        0.0,
         9.77057934,
-        29.46107101
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        29.46107101,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node8",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         73.97944641,
+        0.0,
+        1.0,
+        0.0,
         9.77057743,
-        29.46107864
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        29.46107864,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node9",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         -110.46712494,
+        0.0,
+        1.0,
+        0.0,
         0.63458586,
-        5.8093853
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        5.8093853,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node10",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         -84.70810699,
+        0.0,
+        1.0,
+        0.0,
         0.63458586,
-        18.84618378
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        18.84618378,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node11",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         -50.59440994,
+        0.0,
+        1.0,
+        0.0,
         4.34965038,
-        39.67651367
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        39.67651367,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node12",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         -12.93254662,
+        0.0,
+        1.0,
+        0.0,
         4.34965038,
-        39.19366837
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        39.19366837,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     },
     {
       "name": "node13",
-      "translation": [
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
         31.00629807,
+        0.0,
+        1.0,
+        0.0,
         4.34965038,
-        38.22797775
-      ],
-      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        38.22797775,
         0.0,
         0.0,
         0.0,
         1.0
-      ],
-      "scale": [
-        1.0,
-        1.0,
-        1.0
-      ],
-      "extensions": {
-        "ASOBO_macro_light": {
-          "color": [
-            1.0,
-            0.7,
-            0.5
-          ],
-          "intensity": 150,
-          "cone_angle": 360.0,
-          "has_simmetry": true,
-          "flash_frequency": 0.0,
-          "flash_duration": 0.0,
-          "flash_phase": 0.0,
-          "rotation_speed": 0.0,
-          "day_night_cycle": true
-        }
-      }
+      ]
     }
   ],
   "meshes": [
@@ -536,16 +354,16 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 0
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 1

@@ -1,9 +1,9 @@
-<AssetPackage Name="mycompany-airport-sbpa-porto-alegre" Version="0.9.0">
+<AssetPackage Name="mycompany-airport-sbpa-porto-alegre" Version="0.9.8">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title/>
 		<Manufacturer/>
-		<Creator/>
+		<Creator>guifarias</Creator>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
@@ -32,7 +32,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<OutputDir>scenery/scenery/global/scenery/</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
