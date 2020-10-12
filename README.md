@@ -1,4 +1,4 @@
-# SBPA - Salgado Filho Intl Airport for MSFS
+## SBPA - Salgado Filho Intl Airport for MSFS
 
 Created by: GuiFarias31
 
