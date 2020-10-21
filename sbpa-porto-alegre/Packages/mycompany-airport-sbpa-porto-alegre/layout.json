@@ -8,7 +8,7 @@
     {
       "path": "manifest.json",
       "size": 279,
-      "date": 132459613461132249
+      "date": 132459613552084098
     },
     {
       "path": "scenery/AIRPORT-SBPA-POLY.BGL",
@@ -17,8 +17,8 @@
     },
     {
       "path": "scenery/airport-sbpa-porto-alegre.bgl",
-      "size": 56477,
-      "date": 132456400171789867
+      "size": 56449,
+      "date": 132472742109396106
     },
     {
       "path": "scenery/modelLib.BGL",
