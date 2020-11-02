@@ -24,7 +24,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\data\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="mymodellib">
 			<Type>ArtProj</Type>
@@ -32,7 +32,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\modelLib\</AssetDir>
-			<OutputDir>scenery/scenery/global/scenery/</OutputDir>
+			<OutputDir>scenery\mycompany</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
